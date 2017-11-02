@@ -7,4 +7,6 @@ function forLoop(array){
     }
   }
 }
+
+  forLoop();
   
